@@ -1,0 +1,121 @@
+﻿OrderID,CustomerID,OrderDate,City,PaymentMethod,OrderStatus
+1001,26,2025-06-11,Coimbatore,UPI,Delivered
+1002,7,2025-10-18,Chennai,Debit Card,Cancelled
+1003,7,2025-12-02,Chennai,Cash,Delivered
+1004,5,2025-05-16,Chennai,Net Banking,Delivered
+1005,18,2025-05-15,Hyderabad,Cash,Shipped
+1006,29,2025-10-26,Bengaluru,Credit Card,Delivered
+1007,5,2025-09-18,Chennai,UPI,Delivered
+1008,28,2025-02-26,Vijayawada,Credit Card,Delivered
+1009,26,2025-12-15,Coimbatore,,Delivered
+1010,13,2025-07-15,Hyderabad,Cash,Delivered
+1011,17,2025-05-09,Pune,UPI,Returned
+1012,22,2025-02-28,Pune,Net Banking,Delivered
+1013,25,2025-05-17,Hyderabad,Debit Card,Shipped
+1014,4,2025-05-31,Hyderabad,Cash,Delivered
+1015,1,2025-05-15,Hyderabad,Credit Card,Returned
+1016,17,2025-02-24,Pune,Debit Card,Cancelled
+1017,27,2025-11-24,Coimbatore,Credit Card,Delivered
+1018,5,2025-07-11,Chennai,Net Banking,Shipped
+1019,25,2025-09-29,Hyderabad,Net Banking,Cancelled
+1020,11,2025-09-08,Coimbatore,Debit Card,Delivered
+1021,29,2025-06-07,Bengaluru,Credit Card,Delivered
+1022,29,2025-10-18,Bengaluru,UPI,Returned
+1023,24,2025-09-06,Vijayawada,Net Banking,Shipped
+1024,25,2025-03-06,Hyderabad,Cash,Delivered
+1025,18,2025-03-26,Hyderabad,Net Banking,Delivered
+1026,14,2025-04-19,Vijayawada,Credit Card,Cancelled
+1027,23,2025-06-09,Pune,Debit Card,Delivered
+1028,15,2025-09-22,Hyderabad,Credit Card,Delivered
+1029,8,2025-02-02,Mumbai,Net Banking,Delivered
+1030,18,2025-04-28,Hyderabad,UPI,Delivered
+1031,3,2025-12-29,Hyderabad,Credit Card,Delivered
+1032,3,2025-01-17,Hyderabad,UPI,Cancelled
+1033,17,2025-05-02,Pune,Cash,Delivered
+1034,7,2025-10-04,Chennai,Net Banking,Delivered
+1035,19,2025-08-31,Bengaluru,Cash,Delivered
+1036,26,2025-07-28,Coimbatore,UPI,Delivered
+1037,22,2025-08-09,Pune,Cash,Delivered
+1038,15,2025-01-28,Hyderabad,UPI,Delivered
+1039,2,2025-07-26,Bengaluru,UPI,Shipped
+1040,8,2025-04-09,Mumbai,Cash,Delivered
+1041,5,2025-08-05,Chennai,Cash,Delivered
+1042,8,2025-02-08,Mumbai,Net Banking,Delivered
+1043,4,2025-01-26,Hyderabad,Net Banking,Delivered
+1044,27,2025-01-08,Coimbatore,Credit Card,Returned
+1045,6,2025-07-28,Bengaluru,Credit Card,Delivered
+1046,28,2025-07-25,Vijayawada,Credit Card,Cancelled
+1047,13,2025-01-02,Hyderabad,Debit Card,Returned
+1048,30,2025-08-21,Chennai,Net Banking,Delivered
+1049,22,2025-09-07,Pune,Debit Card,Delivered
+1050,7,2025-01-30,Chennai,Net Banking,Delivered
+1051,2,2025-06-10,Bengaluru,Net Banking,Delivered
+1052,16,2025-09-15,Vijayawada,Net Banking,Cancelled
+1053,6,2025-01-30,Bengaluru,UPI,Returned
+1054,28,2025-04-06,Vijayawada,UPI,Delivered
+1055,22,2025-05-01,Pune,Net Banking,Delivered
+1056,8,2025-10-24,Mumbai,Net Banking,Delivered
+1057,3,2025-08-03,Hyderabad,Net Banking,Delivered
+1058,17,2025-06-11,Pune,Credit Card,Cancelled
+1059,22,2025-06-10,Pune,Cash,Delivered
+1060,5,2025-12-10,Chennai,Cash,Delivered
+1061,11,2025-02-07,Coimbatore,Net Banking,Delivered
+1062,19,2025-02-21,Bengaluru,Credit Card,Delivered
+1063,17,2025-05-16,Pune,Debit Card,Delivered
+1064,29,2025-02-05,Bengaluru,Debit Card,Cancelled
+1065,10,2025-03-22,Mumbai,Net Banking,Delivered
+1066,23,2025-06-04,Pune,Net Banking,Delivered
+1067,1,2025-12-08,Hyderabad,Debit Card,Shipped
+1068,30,2025-12-06,Chennai,Credit Card,Delivered
+1069,9,2025-03-01,Vijayawada,Net Banking,Cancelled
+1070,5,2025-05-20,Chennai,Credit Card,Delivered
+1071,23,2025-06-25,Pune,Debit Card,Delivered
+1072,17,2025-09-08,Pune,UPI,Delivered
+1073,3,2025-11-21,Hyderabad,Debit Card,Delivered
+1074,2,2025-01-02,Bengaluru,Credit Card,Delivered
+1075,21,2025-05-15,Vijayawada,Cash,Delivered
+1076,18,2025-12-28,Hyderabad,UPI,Delivered
+1077,4,2025-02-08,Hyderabad,Credit Card,Returned
+1078,18,2025-01-19,Hyderabad,Net Banking,Shipped
+1079,18,2025-03-17,Hyderabad,UPI,Delivered
+1080,10,2025-07-06,Mumbai,UPI,Cancelled
+1081,29,2025-07-03,Bengaluru,Credit Card,Delivered
+1082,22,2025-02-22,Pune,Net Banking,Delivered
+1083,29,2025-07-28,Bengaluru,Credit Card,Returned
+1084,30,2025-05-02,Chennai,Credit Card,Cancelled
+1085,29,2025-07-31,Bengaluru,Debit Card,Delivered
+1086,26,2025-07-30,Coimbatore,Credit Card,Shipped
+1087,9,2025-03-23,Vijayawada,UPI,Shipped
+1088,13,2025-01-20,Hyderabad,Credit Card,Cancelled
+1089,7,2025-08-24,Chennai,Credit Card,Delivered
+1090,8,2025-01-13,Mumbai,Cash,Delivered
+1091,11,2025-05-23,Coimbatore,Debit Card,Cancelled
+1092,12,2025-11-25,Hyderabad,Net Banking,Delivered
+1093,11,2025-01-15,Coimbatore,Debit Card,Delivered
+1094,6,2025-10-25,Bengaluru,Debit Card,Returned
+1095,2,2025-02-25,Bengaluru,Debit Card,Delivered
+1096,24,2025-06-10,Vijayawada,Net Banking,Delivered
+1097,4,2025-07-17,Hyderabad,Credit Card,Cancelled
+1098,9,2025-01-23,Vijayawada,UPI,Delivered
+1099,17,2025-10-03,Pune,Credit Card,Delivered
+1100,12,2025-08-09,Hyderabad,Debit Card,Delivered
+1101,20,2025-06-10,Bengaluru,UPI,Delivered
+1102,24,2025-06-03,Vijayawada,Cash,Delivered
+1103,11,2025-07-26,Coimbatore,Net Banking,Delivered
+1104,5,2025-04-09,Chennai,Cash,Delivered
+1105,22,2025-03-31,Pune,Debit Card,Delivered
+1106,13,2025-10-08,Hyderabad,Debit Card,Shipped
+1107,10,2025-04-18,Mumbai,Net Banking,Delivered
+1108,20,2025-12-02,Bengaluru,Cash,Delivered
+1109,15,2025-12-12,Hyderabad,Cash,Delivered
+1110,26,2025-03-28,Coimbatore,Debit Card,Delivered
+1111,17,2025-12-06,Pune,Debit Card,Delivered
+1112,3,2025-05-01,Hyderabad,Credit Card,Delivered
+1113,26,2025-04-12,Coimbatore,UPI,Delivered
+1114,8,2025-09-01,Mumbai,UPI,Delivered
+1115,15,2025-08-01,Hyderabad,Net Banking,Cancelled
+1116,7,2025-12-23,Chennai,Cash,Delivered
+1117,8,2025-03-17,Mumbai,UPI,Delivered
+1118,29,2025-02-24,Bengaluru,Credit Card,Shipped
+1119,6,2025-12-23,Bengaluru,UPI,Delivered
+1120,18,2025-05-08,Hyderabad,UPI,Cancelled

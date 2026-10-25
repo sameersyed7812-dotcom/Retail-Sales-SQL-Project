@@ -1,0 +1,26 @@
+﻿ProductID,ProductName,Category,UnitPrice
+1,Laptop,Electronics,45000
+2,Smartphone,Electronics,25000
+3,Headphones,electronics,1800
+4,Keyboard,Electronics,1200
+5,Mouse,Electronics,650
+6,Monitor,Electronics,12000
+7,T-Shirt,Clothing,700
+8,Jeans,Clothing,1600
+9,Shirt,Clothing,1100
+10,Jacket,Clothing,2800
+11,Running Shoes,Footwear,3200
+12,Sandals,Footwear,900
+13,Backpack,Accessories,1400
+14,Watch,Accessories,3500
+15,Wallet,Accessories,800
+16,Coffee Maker,Home Appliances,4200
+17,Mixer Grinder,Home Appliances,3500
+18,Water Bottle,Home & Kitchen,450
+19,Cookware Set,Home & Kitchen,2600
+20,Desk Lamp,Home & Kitchen,1100
+21,Office Chair,Furniture,8500
+22,Study Table,Furniture,6500
+23,Bluetooth Speaker,Electronics,2400
+24,Power Bank,Electronics,1700
+25,Bedsheet,Home & Kitchen,1300
